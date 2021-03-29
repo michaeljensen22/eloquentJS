@@ -8,3 +8,4 @@ const charCount = (string, ch) => {
 }
 
 console.log(charCount("How many Big Bears are there in Big Bear, CA?", "m"));
+console.log(charCount("How much wood could a wood chuck chuck if a wood chuck could chuck wood?", "w"));
